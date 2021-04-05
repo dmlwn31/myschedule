@@ -14,6 +14,9 @@
   <link rel="stylesheet" href="/myschedule/css/reset.css" />
   <link rel="stylesheet" href="/myschedule/css/style.css" />
   <link rel="stylesheet" href="/myschedule/css/media.css" />
+
+  <link rel="shortcut icon" href="/myschedule/favicon.png">
+  <link rel="icon" href="/myschedule/favicon.png">
 </head>
 
 <body>
